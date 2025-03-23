@@ -1,4 +1,4 @@
-Aroma Brand Solutions Repo. where we push all are updates
+Aroma Brand Solutions Repo. here we push all our updates
 
 ```sh
     https://github.com/AromaBrandSolutions/ai-tutor.app
